@@ -73,8 +73,7 @@
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
 <!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
+<div align="center">
   
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=Redressed)
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=default&layout=churchill&font=Redressed)
 </div>
