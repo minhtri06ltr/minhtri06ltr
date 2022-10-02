@@ -61,7 +61,7 @@
   <a href="" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a> -->
-  <a href="mailto:minhtri03hhl@gmail.com"
+  <a href="mailto:minhtri03hll@gmail.com"
      onclick="window.open('mailto:laptopdienthoai1@gmail.com');"
      target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="minhtri-email" />
